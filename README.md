@@ -4,5 +4,5 @@ This repo contains a script that you could run on each of your nodes, if you eve
 # Usage
 Just copy the script to each node you intend to migrate and run it as below:
 ```
-sh ./script.sh
+sh ./glusterfs-heketi-ip-migrate.sh
 ```
